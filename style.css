@@ -1,0 +1,11 @@
+body{background-color: rgb(248, 238, 225);}
+*{margin:0%;padding:0%}
+nav{display:flex;list-style: none;color:black;padding:12px;font-size: 18px;}
+nav li{margin-left:30px;}
+#feature{margin-left: 200px;}
+#download{margin-left: 200px;font-size:17px;background-color: rgb(45, 201, 45);width:150px;height:55px;margin-top:-20px;border-radius:100px;}
+#img{width:1460px;margin-left: 30px;border-radius: 20px;}
+#src{width:420px;}
+#abc{width:400px;}
+#app{width:470px;}
+#http{width:300px;}
