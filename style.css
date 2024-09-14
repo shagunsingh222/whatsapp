@@ -3,9 +3,74 @@ body{background-color: rgb(248, 238, 225);}
 nav{display:flex;list-style: none;color:black;padding:12px;font-size: 18px;}
 nav li{margin-left:30px;}
 #feature{margin-left: 200px;}
-#download{margin-left: 200px;font-size:17px;background-color: rgb(45, 201, 45);width:150px;height:55px;margin-top:-20px;border-radius:100px;}
-#img{width:1460px;margin-left: 30px;border-radius: 20px;}
-#src{width:420px;}
-#abc{width:400px;}
-#app{width:470px;}
-#http{width:300px;}
+#download{margin-left: 200px;font-size:17px;background-color: rgb(54, 202, 54);width:150px;height:55px;margin-top:-20px;border-radius:100px;}
+#img{width:1460px;margin-left: 30px;border-radius: 20px;position:relative;}
+#src{width:433px;position:absolute;margin-top:80px;margin-left:-640px;}
+#app{width:450px;position:absolute;margin-top:120px;margin-left:-640px;}
+#http{width:430px;position:absolute;margin-top:260px;margin-left: -640px;}
+#emoji{width:430px;position:absolute;margin-top:330px;margin-left: -640px;}
+#hrt{width:450px;position:absolute;margin-top:95px;margin-left:-640px;}
+#content{width:450px;position:absolute;margin-top:560px;margin-left:-640px;}
+#grn{width:440px;position:absolute;margin-top:615px;margin-left: -620px;}
+#button{margin-top:500px;position:absolute;margin-left:-1280px;background-color: rgb(54, 202, 54);width:160px;height:55px;font-size: 18px;border-radius: 35px;border:none;}
+#heart{width:30px;border-radius: 22px;margin-top:107px;position:absolute;margin-left:-620px;}
+#bottomimg{width:1380px;margin-left: 100px;}
+#h{width:20px;position:absolute;margin-top:-600px;margin-left: 200px;color:white;font-size: 78px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#text{position:absolute;margin-top: -400px;margin-left:200px;color:white;font-size: 19px;}
+#data{margin-left: 1100px;}
+#with{font-size:45px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-left: 110px;}
+#image{width:1370px;margin-left:80px;}
+#if{margin-left:880px;margin-top: -10px;}
+#never{margin-top: -550px;font-size:55px;margin-left:250px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#from{font-size: 18px;margin-left: 250px;margin-top: -5px;}
+#png{margin-left: 200px;width:480px;margin-top: 120px;}
+#speak{margin-left:800px;font-size: 60px;margin-top: -400px;color:white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#free{margin-left:800px;font-size: 60px;margin-top: -20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color:rgb(62, 128, 62)}
+#end{margin-left: 800px;font-size: 20px;color:aliceblue}
+.ten{background-color: black;margin-top:200px;height:750px;}
+#go{margin-left: 870px;}
+#do{margin-top:-700px;margin-left:850px;width:450px;}
+#in{margin-top:-400px;font-size: 59px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-left: 200px;}
+#onn{font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-left: 200px;}
+#op{margin-top: 390px;margin-left: 340px;position: relative;}
+#oi{width:330px;margin-left:-330px;margin-top:570px;position:absolute}
+#say{font-size: 65px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-top:-460px;margin-left: 880px;color:rgb(26, 24, 24)}
+#express{font-size: 19px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-left:880px;}
+#inn{margin-top:500px;margin-left:808px;}
+#transport{margin-top: -500px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 60px;margin-left: 200px;color:rgb(32, 31, 31)}
+#help{margin-top: 40px;font-size: 19px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-left: 200px;}
+.three{margin-top: 300px;background-color: rgb(29, 31, 32);height:530px;}
+#open{margin-top: 100px;margin-left: 250px;width:170px;}
+#nav{color:aliceblue;margin-left:480px;font-size: 15px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top: -50px;}
+#li{margin-left:100px;}
+#li2{margin-left: 100px;}
+#li3{margin-left: 100px;}
+#nav2{color:aliceblue;margin-left:480px;font-size: 19px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top:20px;}
+#li4{margin-left:105px;}
+#li5{margin-left:105px;}
+#li6{margin-left:125px;}
+#nav3{color:aliceblue;margin-left:480px;font-size: 19px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top:-5px;}
+#li7{margin-left:142px;}
+#li8{margin-left:119px;}
+#li9{margin-left:129px;}
+#nav4{color:aliceblue;margin-left:480px;font-size: 19px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top:-5px;}
+#li11{margin-left: 113px;}
+#li12{margin-left: 70px;}
+#li13{margin-left: 122px;}
+#nav5{color:aliceblue;margin-left:480px;font-size: 19px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top:-5px;position: relative;}
+#li15{margin-left: 70px;}
+#li16{margin-left: 120px;}
+#li17{margin-left: 60px;}
+#li18{margin-right: 100px;}
+#btn{margin-top: -100px;position: absolute;margin-left: 250px;background-color: rgb(54, 202, 54);width:150px;height:55px;font-size: 18px;border-radius: 35px;border:none;}
+#hr{width:1100px;margin-left: 240px;}
+#navten{color:aliceblue;margin-left:350px;font-size: 19px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;margin-top:-5px;position: relative;}
+#wht{font-size: 10px;}
+#policy{font-size: 10px;}
+#sitemap{font-size: 10px;}
+#twitter{width:40px;height:40px;border-radius: 20px;color:aliceblue;background-color: rgb(27, 26, 26);border-color: white;}
+#youtube{width:40px;height:40px;border-radius: 20px;color:aliceblue;background-color:rgb(27, 26, 26) ;border-color: white;}
+
+#insta{width:40px;height:40px;border-radius: 20px;color:aliceblue;background-color: rgb(27, 26, 26);border-color:white;}
+#facebook{width:40px;height:40px;border-radius: 20px;color:aliceblue;background-color:rgb(27, 26, 26);border-color: whitesmoke;}
+#english{margin-left:100px;font-size:17px;background-color:black;width:200px;height:55px;margin-top:-20px;border-color: aliceblue;border-radius:100px;color:aliceblue;}
